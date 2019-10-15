@@ -1,2 +1,0 @@
-# AngularTest
-Created with CodeSandbox
